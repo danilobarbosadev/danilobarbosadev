@@ -1,21 +1,18 @@
 # Olá, sou o Danilo 👨‍💻
 
-Sou desenvolvedor Android e apaixonado por tecnologia.
+Desenvolvedor em formação com foco em Android e Kotlin.
 ### 👀 Estou buscando uma vaga no momento 👀
 
 ## ⚡ Habilidades
-- Desenvolvimento Android (Java e Kotlin)
-- Arquiteturas MVC, MVP, MVVM
-- Clean Architecture
-- Injeção de dependências com Hilt
-- APis com Retrofit, Coroutines
-- Service e Broadcast
-- SOLID
+- Kotlin
+- Lógica de Programação
+- Programação Orientada a Objetos
+- Classes e Objetos
+- Encapsulamento, Herança e Polimorfismo
+- Interfaces
+- Coleções (List, Set e Map)
 - Git e GitHub
-- Firebase, SQLite e SQL
-- Jetpack (LiveData, DataBinding, ViewModel, Room, WorkManager, Navigation e Compose)
-- Testes unitários e de integração
-- Scrum
+- Terminal / Linha de Comando
 
 ## 📫 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jamiltondamasceno/](https://www.linkedin.com/in/danilo-barbosa-b47736328/?isSelfProfile=true))
